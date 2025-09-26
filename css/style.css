@@ -51,12 +51,7 @@ main {
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
 
-.avatar {
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
-  object-fit: cover;
-}
+
 
 .highlighted-text {
   color: #0b3d91;
