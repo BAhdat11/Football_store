@@ -13,7 +13,7 @@ main {
   flex: 1;
 }
 
-/* Header */
+
 #top-banner {
   background: #0f172a;
   color: #fff;
@@ -21,14 +21,14 @@ main {
   text-align: center;
 }
 
-/* Container */
+
 .container {
   width: 90%;
   margin: 0 auto;
   padding: 20px 0;
 }
 
-/* Navigation */
+
 .nav-bar a {
   color: #cfe3ff;
   text-decoration: none;
@@ -40,7 +40,7 @@ main {
   text-decoration: underline;
 }
 
-/* Hero section */
+
 .hero {
   display: flex;
   gap: 20px;
@@ -63,7 +63,7 @@ main {
   font-weight: bold;
 }
 
-/* Features */
+
 .feature {
   background: #fff;
   padding: 15px;
@@ -72,7 +72,7 @@ main {
   border-radius: 8px;
 }
 
-/* Button */
+
 .btn-primary {
   background: #1565d8;
   color: #fff;
@@ -87,7 +87,7 @@ main {
   background: #0b3d91;
 }
 
-/* Form */
+
 form input, form textarea {
   width: 100%;
   padding: 8px;
@@ -95,8 +95,6 @@ form input, form textarea {
   border: 1px solid #ccc;
   border-radius: 6px;
 }
-
-/* Footer */
 footer {
   background: #0f172a;
   color: #ccc;
